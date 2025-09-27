@@ -5,15 +5,6 @@ Projeto feito na semana do zero ao programador contratado
 # Projeto-One-Piece--Pirata-de-Borracha
 
 
-
-Claro! Aqui vai um \*\*resumo da obra \*One Piece\*\*\* de forma simples e clara:
-
-
-
----
-
-
-
 \*\*One Piece\*\* é um mangá e anime criado por \*\*Eiichiro Oda\*\*, lançado em 1997. A história acompanha as aventuras de \*\*Monkey D. Luffy\*\*, um jovem que sonha em se tornar o \*\*Rei dos Piratas\*\*. Para isso, ele busca o lendário tesouro conhecido como \*\*"One Piece"\*\*, deixado pelo antigo Rei dos Piratas, \*\*Gol D. Roger\*\*.
 
 
